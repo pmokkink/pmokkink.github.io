@@ -32,9 +32,10 @@ testje voor blockquote
 > tekst eerste regel
 > tekst 2e regel.
 
-
-I think you should use an
-`<addr>` element here instead.
+tabel links | tabel rechts
+------------|-------------
+tekst links | tekst rechts
+buiten de lijn links | buiten de lijn rechts
 
 ```
 

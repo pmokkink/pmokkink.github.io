@@ -29,8 +29,8 @@ Syntax highlighted code block
 
 testje voor blockquote
 
->tekst eerste regel
->tekst 2e regel.
+> tekst eerste regel
+> tekst 2e regel.
 
 ```
 

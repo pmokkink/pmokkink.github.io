@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+Title: Welcome tot the test.github page
+Description: learning about github
 
 You can use the [editor on GitHub](https://github.com/pmokkink/test.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
